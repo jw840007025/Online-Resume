@@ -7,7 +7,7 @@ var bio = {
         "github": "jw840007025",
         "location": "Shanghai",
     },
-	"welcomeMessage": "Our paths have finally crossed!",
+	"welcomeMessage": "Our destinies have finally crossed paths!",
     "skills": ["CSS", "Creative Writing", "Teaching", "Illustration"],
     "biopic": "images/biopic.jpg"
 };
